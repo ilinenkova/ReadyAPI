@@ -9,7 +9,7 @@
         <con:setting id="GeneratableJUnitReport@Style">Multiple Pages</con:setting>
         <con:setting id="GeneratableJUnitReport@Folder">C:\dev\htmlreports</con:setting>
         <con:setting id="ReportTitle">SoapUI Report</con:setting>
-    </con:settings>
+    <con:setting id="3e963cc3-e8e6-46e8-b75b-502a9299ce11fileName">Data-Driven-Sample-Project-readyapi-project</con:setting></con:settings>
     
     
     
