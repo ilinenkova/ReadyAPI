@@ -126,7 +126,7 @@
  <soapenv:Header/>
  <soapenv:Body>
  <sam:logout>
- <sessionid>295543644542687</sessionid>
+ <sessionid>9302371414372016</sessionid>
  </sam:logout>
  </soapenv:Body>
 </soapenv:Envelope>]]></con:request>

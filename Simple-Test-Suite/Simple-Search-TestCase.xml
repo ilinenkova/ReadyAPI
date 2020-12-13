@@ -155,7 +155,7 @@
  <soapenv:Header/>
  <soapenv:Body>
  <sam:search>
- <sessionid>858276632334377</sessionid>
+ <sessionid>16442319743489553</sessionid>
  <searchstring>Item 1</searchstring>
  </sam:search>
  </soapenv:Body>
@@ -191,7 +191,7 @@
  <soapenv:Header/>
  <soapenv:Body>
  <sam:logout>
- <sessionid>858276632334377</sessionid>
+ <sessionid>16442319743489553</sessionid>
  </sam:logout>
  </soapenv:Body>
 </soapenv:Envelope>]]></con:request>
